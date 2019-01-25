@@ -13,9 +13,9 @@
     </Dependency>
   </ToolsetDependencies>
   <ProductDependencies>
-    <Dependency Name="Microsoft.NET.Sdk" Version="3.0.100-preview.19074.2">
+    <Dependency Name="Microsoft.NET.Sdk" Version="3.0.100-preview.19075.2">
       <Uri>https://github.com/dotnet/sdk</Uri>
-      <Sha>f80348964e11948590d268b18e72988001531f85</Sha>
+      <Sha>010b0fb362878d3eb8dfff7f521fc0db6b7e3a50</Sha>
     </Dependency>
   </ProductDependencies>
 </Dependencies>
